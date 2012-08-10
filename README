@@ -1,0 +1,3 @@
+
+rails g model user provider:string uid:string name:string
+rake db:migrate
